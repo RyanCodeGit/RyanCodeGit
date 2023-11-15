@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RyanCodeGit
-- 👀 I’m interested in "Data Analytics/Machine Learning"
+- 👀 I’m interested in "Data Analytics/Video Games"
 - 🌱 I’m currently learning "Python"
 - 💞️ I’m looking to collaborate on "TBD"
 - 📫 How to reach me ... {"Discord": "ryanibanezman", "Email": "ryancarlevans@hotmail.com"}
